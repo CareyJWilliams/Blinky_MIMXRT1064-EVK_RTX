@@ -49,7 +49,7 @@
   <packages>
     <package name="CMSIS-Driver" vendor="ARM" version="2.6.1:2.6.1"/>
     <package name="CMSIS" vendor="ARM" version="5.8.0:5.8.0"/>
-    <package name="ARM_Compiler" vendor="Keil" version="1.6.3:1.6.3"/>
+    <package name="ARM_Compiler" vendor="Keil" version="1.7.0:1.7.0"/>
     <package name="MIMXRT1064-EVK_BSP" vendor="Keil" version="1.2.0:1.2.0"/>
     <package name="iMXRT1064_MWP" vendor="Keil" version="1.4.0:1.4.0"/>
     <package name="EVK-MIMXRT1064_BSP" vendor="NXP" version="13.0.0:13.0.0"/>
